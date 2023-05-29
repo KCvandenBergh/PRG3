@@ -1,1 +1,1 @@
-# PRG3
+# PRG03-Magazine
